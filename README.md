@@ -1,8 +1,9 @@
-# AB_Test_Results
-Here was the project I did for the Practical Statistics unit from the Data Analyst Nanodegree through Udacity. 
+# Analyze A/B Test Results
 
-The goal of this project was to look at the effect a new web page design had on the conversion rate of its users. We used a control group, the old web page, and a treatment group, the new web page. I set up hypothesis testing and analyzed the data set using a few different methods.
+A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these.
 
-I had prior knowledge of these statsitcs from my course work at Kansas State University, but this unit foucsed on how to apply these statistcs to real life data and use python to run these tests. 
+For this project, you will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Your goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
-I saved my jupyter notebook as a .ipynb. Feel free to check it out!
+The data and the Jupyter Notebook, which are all of the files you need to complete the project, are provided for you in a downloadable zip file in the resources tab (as well as under "Supporting Materials" below). Note that portions of the notebook reference back to quizzes that are linked in this lesson to ensure you are on the right track.
+
+Although the quizzes in this lesson are not necessary to successfully complete the project (though they are helpful), all of the items on the Project Rubric must meet specifications to successfully complete the project.
